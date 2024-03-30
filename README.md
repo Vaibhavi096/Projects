@@ -7,7 +7,7 @@
 ![Screenshot 2024-03-30 190248](https://github.com/Vaibhavi096/Projects/assets/152498460/2285cc11-2e83-4d8f-b9f7-2c1e7f1c3348)
 
 2. Stopwatch Wwb Application
-![Screenshot 2024-03-30 190248](https://github.com/Vaibhavi096/Projects/assets/152498460/82c3b563-81b9-402e-8b67-7a67b814ad0f)
+![Screenshot 2024-03-30 190341](https://github.com/Vaibhavi096/Projects/assets/152498460/b8f1a680-e1e5-4d39-983b-5a5ca8f15d67)
 ![Screenshot 2024-03-30 190354](https://github.com/Vaibhavi096/Projects/assets/152498460/1cf5ab93-51c3-4803-a59e-5f32160a0579)
 
 3. Tic-Tac-Toe Web Applicatiob
